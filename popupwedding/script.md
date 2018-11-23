@@ -76,7 +76,7 @@ Officiant:
 It is now my honor and delight to declare you husband and wife—you may seal your vows with a kiss.
 ```
 
-### Optional: Next steps?
+### Optional: Next steps
 
 Drinks in the yard?
 Dinner at 6:30 at `location`?
