@@ -4,9 +4,9 @@
 
 ### Bride: `Karuna Patil`
 
-### Groom: `Eric Keto`
+### Groom: `Jon Keto`
 
-### Officiant: `Jon Keto`
+### Officiant: `Eric Keto`
 
 ## Script
 
@@ -33,7 +33,7 @@ Karuna and Jon would like to invite you to participate in their wedding celebrat
 ```text
 Officiant:
 
-Wedding ceremonies are an important part of the bond of an already existing relationship. What we are celebrating today is not the beginning of a marriage, but a marriage-already-in-progress. The words Karuna and Jon have decided to share today are promises they make eachother in the presence of their friends and family.
+Wedding ceremonies are an important part of the bond of an already existing relationship. What we are celebrating today is not the beginning of a marriage, but a marriage-already-in-progress. The words Karuna and Jon have decided to share today are promises they make each other in the presence of their friends and family.
 ```
 
 #### Vows: Karuna
