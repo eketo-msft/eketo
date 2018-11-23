@@ -15,17 +15,7 @@
 ```text
 Officiant:
 
-Thank you everyone for being here today. Karuna and Jon are excited that everyone has taken the time to join them here today to celebrate this wedding.
-```
-
-Any shout outs for rememberence sake?
-
-### Optional: Declaration of Support and Friendship
-
-```text
-Officiant:
-
-Karuna and Jon would like to invite you to participate in their wedding celebration. Anyone who wishes to may now share their thoughts or feelings. This is a great time to share a blessing or a short story about them individually or as a couple.
+Thank you everyone for being here today. Karuna and Jon are excited that everyone has taken the time to join them here to celebrate this wedding.
 ```
 
 ### Vows
@@ -33,50 +23,39 @@ Karuna and Jon would like to invite you to participate in their wedding celebrat
 ```text
 Officiant:
 
-Wedding ceremonies are an important part of the bond of an already existing relationship. What we are celebrating today is not the beginning of a marriage, but a marriage-already-in-progress. The words Karuna and Jon have decided to share today are promises they make each other in the presence of their friends and family.
-```
-
-#### Vows: Karuna
-
-```text
-Officiant: Karuna...
-
-Bride: ...
+Wedding ceremonies are an important part of the bond of an already existing relationship. Today we are not celebrating the beginning of a marriage, but a marriage-already-in-progress. The words Karuna and Jon have decided to share today, and the rings they are exchanging, are promises they make to each other in the presence of their friends and family.
 ```
 
 #### Vows: Jon
 
 ```text
-Official: Jon...
+Official: Jon, you may now share your vows and place the ring on her finger.
 
 Groom: ...
+```
+
+#### Vows: Karuna
+
+```text
+Officiant: Karuna, you may now share your vows and place the ring on his finger...
+
+Bride: ...
 ```
 
 ### Declaration of Intent
 
 ```text
-Officiant: Will you, Karuna, take this man to be your wedded husband?
+Officiant: Thank you.  Now having considered these vows you just shared, will you, Karuna, take Jon to be your wedded husband?
 
 Bride: I will.
 
-Officiant: Will you, Jon, take this woman to be your wedded wife?
+Officiant: And Jon, will you take Karuna to be your wedded wife?
 
 Groom: I will.
 ```
 
-### Optional: Exchange of Rings
-
-This section is optional, do you and Karuna want to exchange rings?
-
 ### Pronouncement
 
 ```text
-Officiant:
-
-It is now my honor and delight to declare you husband and wife—you may seal your vows with a kiss.
+Officiant: It is now my honor to declare you husband and wife — Jon, you may now kiss your bride.
 ```
-
-### Optional: Next steps
-
-Drinks in the yard?
-Dinner at 6:30 at `location`?
